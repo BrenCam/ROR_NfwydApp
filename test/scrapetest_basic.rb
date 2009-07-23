@@ -14,13 +14,13 @@ class Scrapetest_basic < Test::Unit::TestCase
         # test a specific file for expected results
         # all should pass
         #src = '../testfeeds/valid/popseoul.html'
-        #slink = 'http://www.mybloglog.com/buzz/members/popseoul/me/rss.xml ; Subscribe to RSS feed ; '
+        #slink = 'http://www.mybloglog.com/buzz/members/popseoul/me/rss.xml'
         #src = '../testfeeds/valid/hueniverse.html'
-        #slink = 'http://www.hueniverse.com/hueniverse/atom.xml ; Subscribe today! ; '
+        #slink = 'http://www.hueniverse.com/hueniverse/atom.xml'
 #        src = '../testfeeds/valid/jaigouk.blogspot.com.html'
-#        slink = 'http://jaigouk.blogspot.com/feeds/posts/default ; RSSSyndicate ; '
+#        slink = 'http://jaigouk.blogspot.com/feeds/posts/default'
 #        src = '../testfeeds/valid/semanticallydriven.com.html'
-#        slink = 'http://feeds2.feedburner.com/semanticallydriven ; Subscribe in a reader ; '
+#        slink = 'http://feeds2.feedburner.com/semanticallydriven'
         src = '../testfeeds/valid/nytimes.friedman.html'
         slink = 'http://www.nytimes.com/rss'
 

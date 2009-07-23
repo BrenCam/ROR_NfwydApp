@@ -80,7 +80,7 @@ module NfwydNodeSubscribeLinkDetector
         # ?? If > 1 result - Prioritize '/xml/rss links over other /html links??
         # see NY Times Tets with > ! result
         results.each do |res|
-            puts '>>>> testing : ' + res
+            #puts '>>>> testing : ' + res
             if res =~ /\/rss\z|\/xml\z/
                 return res
             end
