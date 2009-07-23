@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://www.itconversations.com/rss/category-rss.php?k=technation%26e=1</id>
+  <title>IT Conversations</title>
+  <link href="http://itc.conversationsnetwork.org" />
+  <author>
+    <name>The Conversations Network</name>
+    <email>webmaster@conversationsnetwork.org (The Conversations Network)</email>
+  </author>
+  <subtitle>IT Conversations is the longest-running podcast on the planet, publishing a new audio program nearly every day, from the most important tech conferences to our unique programs. Not just IT, it's everything tech and beyond.</subtitle>
+  <updated>2005-12-12T12:12:12Z</updated>
+  <rights>Copyright (c) 2008, The Conversations Network</rights>
+  <link rel="self" type="application/atom+xml" href="http://www.snellspace.com/atom/atomcast.php?url=http://www.itconversations.com/rss/category-rss.php?k=technation%26e=1" />
+  <link rel="related" type="text/xml" href="http://www.itconversations.com/rss/category-rss.php?k=technation&amp;e=1" />
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4070</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/xrrBjHMUZgU/detail4070.html" />
+    <title>Rich Wolski - EUCALYPTUS - Elastic Utility Computing Architecture for Linking Your Programs To Useful Systems</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Cloud computing can be a powerful tool in academic research but the costs associated with commercial implementations and the established hardware available at most universities has left a gap in the development of solutions for academic environments. Join Rich Wolski, a Professor of Computer Science at the University of California, Santa Barbra, as he discusses the challenges involved with building an open source project that gets scientists&#039; heads into the (computing) cloud.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xrrBjHMUZgU:jr05Pyrh17o:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xrrBjHMUZgU:jr05Pyrh17o:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xrrBjHMUZgU:jr05Pyrh17o:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xrrBjHMUZgU:jr05Pyrh17o:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/xrrBjHMUZgU" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/WvhOHvgogrc/ITC.Velocity-RichWolski-2008.06.24.mp3" length="14975232" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4163</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/6TxgPjaBrCk/detail4163.html" />
+    <title>Dara O'Rourke - GoodGuide.com</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira speaks with UC Berkeley professor Dara O&#039;Rourke, founder of GoodGuide.com. He tells us what it takes to understand the impact of everything we use, requiring the tracking of the global supply chain.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=6TxgPjaBrCk:V27ulyMl4Lw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=6TxgPjaBrCk:V27ulyMl4Lw:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=6TxgPjaBrCk:V27ulyMl4Lw:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=6TxgPjaBrCk:V27ulyMl4Lw:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/6TxgPjaBrCk" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/U-R9e2DBZ5U/ITC.TN-DaraORourke-2009.06.09.mp3" length="18695198" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4164</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/HJrm8AFELAc/detail4164.html" />
+    <title>Jay Keasling - Managing Malaria</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Dr. Moira Gunn interviews Jay Keasling, Professor of Chemical Engineering and BioEngineering at UC Berkeley and first recipient of the Biotech Humanitarian Award. They discuss the growing worldwide challenge of malaria and a completely new approach which may make it manageable.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=HJrm8AFELAc:ZAnuv0f7AXY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=HJrm8AFELAc:ZAnuv0f7AXY:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=HJrm8AFELAc:ZAnuv0f7AXY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=HJrm8AFELAc:ZAnuv0f7AXY:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/HJrm8AFELAc" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/OnVTGHlQikw/ITC.TN-JayKeasling-2009.06.09.mp3" length="6346871" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4174</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/zwWy6iYOJeU/detail4174.html" />
+    <title>Peter O'Toole - Electronic Medical Records</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Can electronic medical records really help us deliver better care at lower cost? Maybe, says Peter O&#039;Toole, but it&#039;ll require plenty of clueful cooperation between software and medical professionals. In this conversation with host Jon Udell, he discusses expert systems, knowledge representation, data interchange standards, and the subtle art of balancing constraints and freedom in the gathering of clinical information.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=zwWy6iYOJeU:xFez-qNqlGg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=zwWy6iYOJeU:xFez-qNqlGg:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=zwWy6iYOJeU:xFez-qNqlGg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=zwWy6iYOJeU:xFez-qNqlGg:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/zwWy6iYOJeU" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/_HUkVMSJr_8/ITC.INNO-PeterOToole-2009.06.17.mp3" length="20230801" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4161</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/5Xt42DPMVI8/detail4161.html" />
+    <title>Jim Greenwood, Steve Sherwin - BIO 2009</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[In these two interviews, Dr. Moira Gunn reviews the recently concluded International Biotechnology Conference (BIO 2009). She first talks with former Congressman Jim Greenwood, the President of the Biotechnology Industry Organization, sponsor of the conference. She then speaks with Dr. Steve Sherwin, Oncologist &amp; CEO of Cell Genesys and also incoming Chair of the Biotechnology Industry Organization.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=5Xt42DPMVI8:Zn1ap6aAOIY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=5Xt42DPMVI8:Zn1ap6aAOIY:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=5Xt42DPMVI8:Zn1ap6aAOIY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=5Xt42DPMVI8:Zn1ap6aAOIY:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/5Xt42DPMVI8" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/H5_ZDfuqYvg/ITC.TN-GreenwoodSherwin-2009.06.02.mp3" length="10064751" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4162</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/gaY4xv14CUE/detail4162.html" />
+    <title>David Ewing Duncan - BIO 2009 Review</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Dr. Moira Gunn reviews the recently concluded International Biotechnology Conference (BIO 2009) with David Ewing Duncan, chief correspondent of Biotech Nation.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=gaY4xv14CUE:UjFh0G-8Osk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=gaY4xv14CUE:UjFh0G-8Osk:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=gaY4xv14CUE:UjFh0G-8Osk:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=gaY4xv14CUE:UjFh0G-8Osk:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/gaY4xv14CUE" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/vYezFAr1qUo/ITC.TN-DavidEwingDuncan-2009.06.02.mp3" length="15238421" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4103</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/IG-bxpfBDzM/detail4103.html" />
+    <title>Monty Widenius, Brian Aker - Open source cultures, the Sun/MySQL acquisition</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[In the conversation with Tim O&#039;Reilly at the 2008 O&#039;Reilly Open Source Convention, Monty Widenius and Brian Aker discuss the integration of MySQL into Sun Microsystems.  Some of the biggest surprises have come from watching the ways that MySQL&#039;s open source culture has spread throughout Sun&#039;s workforce, and into their projects.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IG-bxpfBDzM:fsQzKKW4hGQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IG-bxpfBDzM:fsQzKKW4hGQ:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IG-bxpfBDzM:fsQzKKW4hGQ:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IG-bxpfBDzM:fsQzKKW4hGQ:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/IG-bxpfBDzM" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/LxJ4oT6ry14/ITC.oscon-OReilly-2008.07.23.mp3" length="11879074" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4120</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/Xdzh0aIQ36I/detail4120.html" />
+    <title>Jonathan Taylor - Tropo</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Jonathan Taylor&#039;s company, Voxeo, was started so that anyone could create applications for the phone. In this short program, Taylor introduces his company&#039;s new API, Tropo. With Tropo, developers will not be limited to XML based telephony but will be offered a core API that allows application developers to choose from five general purpose programming languages to write code in.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Xdzh0aIQ36I:7au576kgB4E:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Xdzh0aIQ36I:7au576kgB4E:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Xdzh0aIQ36I:7au576kgB4E:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Xdzh0aIQ36I:7au576kgB4E:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/Xdzh0aIQ36I" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/qGS7pSkUVDo/ITC.Ecomm-JonathanTaylor-2009.03.03.mp3" length="4545385" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4156</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/cDus3DHCOb4/detail4156.html" />
+    <title>Daniel Goleman - Ecological Intelligence</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira interviews Daniel Goleman about his new book, Ecological Intelligence: How Knowing the Hidden Impacts of What We Buy Can Change Everything. His book discusses the hidden environmental consequences of what we make and buy, and how with that knowledge we can drive the essential changes we all must make to save our planet and ourselves.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=cDus3DHCOb4:SiqXwD_OY_U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=cDus3DHCOb4:SiqXwD_OY_U:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=cDus3DHCOb4:SiqXwD_OY_U:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=cDus3DHCOb4:SiqXwD_OY_U:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/cDus3DHCOb4" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/neTJVeGuBWc/ITC.TN-DanielGoleman-2009.05.26.mp3" length="18106636" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4157</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/8IoCBPKEW5w/detail4157.html" />
+    <title>Tony Coles - One Drug Pharmaceutical Companies</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira Gunn interviews Dr. Tony Coles, President and CEO of Onyx Pharmaceuticals, about the challenges to a company that depends on a single drug for business success.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=8IoCBPKEW5w:bDvfnAi8FxQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=8IoCBPKEW5w:bDvfnAi8FxQ:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=8IoCBPKEW5w:bDvfnAi8FxQ:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=8IoCBPKEW5w:bDvfnAi8FxQ:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/8IoCBPKEW5w" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/EAjJq1VGb7g/ITC.TN-TonyColes-2009.05.26.mp3" length="6762628" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4154</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/Z7PlKDGz5hc/detail4154.html" />
+    <title>David Helvarg - The U.S. Coast Guard</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira talks to author David Helvarg about his book, Rescue Warriors: The U.S. Coast Guard, America&#039;s Forgotten Heroes. He tells the story of the Coast Guard and how their missions range from saving fishermen in the icy waters off Alaska to rescuing thousands in the wake of Katrina.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Z7PlKDGz5hc:7mWabh8rYfg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Z7PlKDGz5hc:7mWabh8rYfg:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Z7PlKDGz5hc:7mWabh8rYfg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Z7PlKDGz5hc:7mWabh8rYfg:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/Z7PlKDGz5hc" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/tSmYuC0shPU/ITC.TN-DavidHelvarg-2009.05.19.mp3" length="16727315" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4155</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/m8x1AnIRED8/detail4155.html" />
+    <title>JJ Bienaime - Orphan Diseases</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Dr. Moira Gunn talks to JJ Bienaime, President &amp; CEO of BioMarin Pharmaceuticals about the problem of orphan diseases, diseases not yet under research by pharmaceutical companies because of a lack of financial incentive to market new medications for treatment.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=m8x1AnIRED8:RlRSQzyug6k:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=m8x1AnIRED8:RlRSQzyug6k:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=m8x1AnIRED8:RlRSQzyug6k:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=m8x1AnIRED8:RlRSQzyug6k:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/m8x1AnIRED8" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/EzVjVTR8ObQ/ITC.TN-JjBienaime-2009.05.19.mp3" length="8369779" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4159</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/YsIJd4cv21w/detail4159.html" />
+    <title>Episode 60 - StackOverflow</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Joel and Jeff discuss the value (or lack thereof) of meta-discussion, how much &quot;big iron&quot; popular websites need, and whether code forking is sometimes inevitable.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=YsIJd4cv21w:C2KHbiZWvAs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=YsIJd4cv21w:C2KHbiZWvAs:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=YsIJd4cv21w:C2KHbiZWvAs:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=YsIJd4cv21w:C2KHbiZWvAs:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/YsIJd4cv21w" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/cobUylCjr9Q/ITC.SO-Episode60-2009.06.30.mp3" length="33015927" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4110</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/x6V782gbLYQ/detail4110.html" />
+    <title>Sheeri K. Cabral - How to be a MySQL Community Superhero</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Even without deep technical knowledge or a fat Rolodex, you can be a community superhero.  In this talk from the 2009 MySQL Conference, Sheeri Cabral, the 2007-2008 MySQL Advocate of the Year, shares some pointers on things anyone can do to help the technology and community of your favorite open source project.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=x6V782gbLYQ:UgizO7hpWAY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=x6V782gbLYQ:UgizO7hpWAY:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=x6V782gbLYQ:UgizO7hpWAY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=x6V782gbLYQ:UgizO7hpWAY:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/x6V782gbLYQ" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/57eXr9lgMbk/ITC.MYSQL-SheeriCabral-2009.04.22.mp3" length="7424233" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4153</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/M--ApUvK-wU/detail4153.html" />
+    <title>Paul Hastings - Cancer Stem Cells</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Paul Hastings, president and CEO of Oncomed Pharmaceuticals, discusses the controversial topic of cancer stem cells, what he calls the root of the tumor. He also talks about how his company is working with other pharmaceutical companies who are helping with Oncomed&#039;s biotech work.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=M--ApUvK-wU:eesHfI2FmnU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=M--ApUvK-wU:eesHfI2FmnU:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=M--ApUvK-wU:eesHfI2FmnU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=M--ApUvK-wU:eesHfI2FmnU:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/M--ApUvK-wU" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/mt9gP-J0SL4/ITC.TN-PaulHastings-2009.05.12.mp3" length="8175035" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4152</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/4E0GMuV5Y-o/detail4152.html" />
+    <title>Geoff Nunberg - Talking Dangerously</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira speaks with Fresh Air commentator and linguist Geoff Nunberg, who discusses his book The Years of Talking Dangerously and assesses the impact of words in a dynamic, changing world. In the book, he explains why grammar buffs are drawn to sarcasm, and deftly unpacks the telling phrases of our national conversation, from progressive to elite to change, as well as the national conversation itself.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=4E0GMuV5Y-o:RO4t5hiaWFU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=4E0GMuV5Y-o:RO4t5hiaWFU:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=4E0GMuV5Y-o:RO4t5hiaWFU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=4E0GMuV5Y-o:RO4t5hiaWFU:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/4E0GMuV5Y-o" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/w2vDt9QT-EA/ITC.TN-GeoffNunberg-2009.05.12.mp3" length="16917185" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4097</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/suXF2XjT74U/detail4097.html" />
+    <title>Kevin Kelly - Believing in the Impossible</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[It&#039;s been approximately 6,500 days since Tim Berners-Lee created the first Web page. In such short a time, the Web has achieved far more than could be thought of at the time. What will the next 6,500 days bring us? Noted author, and former editor of the Wired magazine, Kevin Kelly, speculates on the future of the Web.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=suXF2XjT74U:_WZMvqiTn-0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=suXF2XjT74U:_WZMvqiTn-0:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=suXF2XjT74U:_WZMvqiTn-0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=suXF2XjT74U:_WZMvqiTn-0:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/suXF2XjT74U" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/ucJb5Zi2mVo/ITC.Web2.0-KevinKelly-2008.11.06.mp3" length="8950803" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4105</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/mmTfpJkofFA/detail4105.html" />
+    <title>David Kessler - The End of Overeating</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira speaks with former Food and Drug Administration Commissioner David Kessler about his book The End of Overeating, in which he discusses what has been invisibly added to the American supply, leaving some of us obese, and many of us, unexpectedly overweight. He tells us the science behind what happens to our brains when we eat food laden with salt, fat and sugar.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=mmTfpJkofFA:FgoWpdSIsNw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=mmTfpJkofFA:FgoWpdSIsNw:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=mmTfpJkofFA:FgoWpdSIsNw:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=mmTfpJkofFA:FgoWpdSIsNw:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/mmTfpJkofFA" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/8LKMR4cmhL0/ITC.TN-DavidKessler-2009.04.28.mp3" length="23829359" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4106</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/dRYZj-9Vszk/detail4106.html" />
+    <title>Matt Gardner - California Biotech Companies</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira interviews Matt Gardner, President &amp; CEO, BayBIO, the Northern California Life Sciences Organization, about the organization&#039;s the new free online Impact 2009 Report about all the biotech companies in California and everything they are working on.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dRYZj-9Vszk:wPRDFvmkaPU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dRYZj-9Vszk:wPRDFvmkaPU:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dRYZj-9Vszk:wPRDFvmkaPU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dRYZj-9Vszk:wPRDFvmkaPU:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/dRYZj-9Vszk" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/0dV9lz6UvCg/ITC.TN-MattGardner-2009.05.05.mp3" length="9966173" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4107</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/WKK8bzk7pAQ/detail4107.html" />
+    <title>Rory Cooper, Jim "Oz" Osborn - Quality of Life</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Moira speaks with Rory Cooper and Oz Osborn about quality of life technology. The Quality of Life Technology (QoLT) Center is a National Science Foundation Engineering Research Center (ERC) who&#039;s mission is to transform lives in a large and growing segment of the population, people with reduced functional capabilities due to aging or disability.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=WKK8bzk7pAQ:VZ1wm4xLOB4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=WKK8bzk7pAQ:VZ1wm4xLOB4:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=WKK8bzk7pAQ:VZ1wm4xLOB4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=WKK8bzk7pAQ:VZ1wm4xLOB4:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/WKK8bzk7pAQ" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/1ctCe9sJLDg/ITC.TN-OsbornCooper-2009.05.05.mp3" length="14650123" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4150</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/dlIA11d6Q6k/detail4150.html" />
+    <title>Episode 59 - StackOverflow</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Joel and Jeff sit down with Damien Katz to discuss non-conventional databases, non-conventional programming languages, and taking on non-conventional programming projects.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dlIA11d6Q6k:DpWN4VQ0KQ0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dlIA11d6Q6k:DpWN4VQ0KQ0:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dlIA11d6Q6k:DpWN4VQ0KQ0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=dlIA11d6Q6k:DpWN4VQ0KQ0:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/dlIA11d6Q6k" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/ACAWy14Ndm4/ITC.SO-Episode59-2009.06.23.mp3" length="32574770" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4147</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/k_2qsaMUNIc/detail4147.html" />
+    <title>Dave Winer - Tweeting the News</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Dave Winer discusses how Twitter and other social networking tools are changing the way that people read and react to the news. He talks about how the new ways to keep track of events have changed over the years and how these new methods are also likely to change. He also reviews his work in Twitter stats and what we can learn from them as well as where things may go next.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=k_2qsaMUNIc:XRnQ_cMxbx4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=k_2qsaMUNIc:XRnQ_cMxbx4:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=k_2qsaMUNIc:XRnQ_cMxbx4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=k_2qsaMUNIc:XRnQ_cMxbx4:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/k_2qsaMUNIc" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/yXfEufmGNCA/ITC.TM-DaveWiner-2009.06.15.mp3" length="20798126" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4104</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/eO_dDMDzX78/detail4104.html" />
+    <title>Keith Bergelt - Open Invention Network</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[The Open Invention Network is a collaborative enterprise formed to promote Linux, and protect the open source community from the threats of patent assertion and litigation. Keith Bergelt&#039;s job as the CEO is to ensure that the edges of this network are not intruded upon, and that the self-regulatory nature of open source has an opportunity to spread beyond Linux and the 300 plus programs that exist today.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=eO_dDMDzX78:_Ep51kS_IRk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=eO_dDMDzX78:_Ep51kS_IRk:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=eO_dDMDzX78:_Ep51kS_IRk:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=eO_dDMDzX78:_Ep51kS_IRk:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/eO_dDMDzX78" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/tyCrXjYjNUc/ITC.oscon-Bergelt-2008.07.23.mp3" length="7638732" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4138</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/Gf-TWu0Iczc/detail4138.html" />
+    <title>David Heinemeier Hansson - Rails 3 and the Secret To High Productivity</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Ruby on Rails has been around for five years and three major versions, and while many small things have changed, the major principles are still the same.  In this talk from the 2009 RailsConf, David Heinemeier Hansson, the creator of Rails, lists some of the things that failed to &quot;kill&quot; Rails, the philosophy and details of the upcoming Rails 3 release, and the key to productivity in software development.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Gf-TWu0Iczc:lsuIZdgJpUw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Gf-TWu0Iczc:lsuIZdgJpUw:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Gf-TWu0Iczc:lsuIZdgJpUw:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=Gf-TWu0Iczc:lsuIZdgJpUw:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/Gf-TWu0Iczc" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/cqolt9QfH68/ITC.Rails-DavidHeinemeierHansson-2009.05.05.mp3" length="33827440" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4149</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/MHxyjWkazAA/detail4149.html" />
+    <title>Steven Willmott - Online Data Access</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[There&#039;s growing awareness of the need to publish data online, and to support programmatic access to that data. In this conversation, host Jon Udell talks with Steven Willmott about how his company, 3Scale, helps businesses create and manage application programming interfaces to their data.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=MHxyjWkazAA:Q2BI1xmFsFA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=MHxyjWkazAA:Q2BI1xmFsFA:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=MHxyjWkazAA:Q2BI1xmFsFA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=MHxyjWkazAA:Q2BI1xmFsFA:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/MHxyjWkazAA" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/BkuNctVvzgU/ITC.INNO-StevenWillmott-2009.06.16.mp3" length="17383111" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4148</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/SrOesOBrsd4/detail4148.html" />
+    <title>Episode 58 - StackOverflow</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Joel and Jeff discuss HTML encoding, designing &quot;safe by default&quot;, whether a question can be too simple, and the art of beta testing.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=SrOesOBrsd4:WG7knqR6YSk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=SrOesOBrsd4:WG7knqR6YSk:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=SrOesOBrsd4:WG7knqR6YSk:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=SrOesOBrsd4:WG7knqR6YSk:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/SrOesOBrsd4" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/PcY6a9Dhmtc/ITC.SO-Episode58-2009.06.16.mp3" length="31472583" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4145</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/9K5XZgBsBaI/detail4145.html" />
+    <title>Sachin Agarwal, Garry Tan - Posting With Posterous</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[As more individuals have an online presence, developers continue to come up with new ways for people to post items. Sachin Agarwal and Garry Tan discuss Posterous, a rich microblogging platform. They talk about how the service was developed, the architecture of the process, and the security methods in place to protect people. They also review their business model and their product roadmap.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=9K5XZgBsBaI:fNK2mLMgzsc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=9K5XZgBsBaI:fNK2mLMgzsc:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=9K5XZgBsBaI:fNK2mLMgzsc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=9K5XZgBsBaI:fNK2mLMgzsc:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/9K5XZgBsBaI" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/9gOuBMvhJyQ/ITC.TM-AgarwalTan-2009.06.08.mp3" length="24356042" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4119</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/otLbqk261bs/detail4119.html" />
+    <title>Peter Diedrich - Mobivox CRM Launch</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Voice is the most natural, comfortable form of communication, but most customer interaction is done through text.  In this presentation from the 2009 Emerging Communications Conference, Peter Diedrich of Mobivox describes their new voice CRM platform that improves customer satisfaction and retention by including sales messages into typical customer interactions.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=otLbqk261bs:8uhz4uKvtv0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=otLbqk261bs:8uhz4uKvtv0:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=otLbqk261bs:8uhz4uKvtv0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=otLbqk261bs:8uhz4uKvtv0:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/otLbqk261bs" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/2s8Hama_7U0/ITC.Ecomm-PeterDiedrich-2009.03.03.mp3" length="4189048" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4034</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/IpNb1NsVJhY/detail4034.html" />
+    <title>Alexander Saint-Amand; Thomas A. Desmond - Social Networks and Financial Markets</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Alexander Saint-Amand and Thomas A. Desmond describe how their firms use social networking techniques to meet the unique challenges of investment research and online trading. Saint-Amand explores how Gerson Lehrman Group qualifies &amp; engages a global network of experts. Desmond details how TradeKing uses community features and user-generated content to change trading from a solitary experience to a social one.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IpNb1NsVJhY:C12VYK25c7A:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IpNb1NsVJhY:C12VYK25c7A:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IpNb1NsVJhY:C12VYK25c7A:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=IpNb1NsVJhY:C12VYK25c7A:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/IpNb1NsVJhY" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/94S6I2UtEvY/ITC.Money-Saint-AmandDesmond-2008.02.07.mp3" length="12886262" />
+  </entry>
+    <entry>
+    <id>http://www.conversationsnetwork.org/episode-4064</id>
+    <link href="http://feeds.conversationsnetwork.org/~r/channel/itc/~3/xN4PA6JyHJs/detail4064.html" />
+    <title>Scott Ruthfield - Jiffy: Open Source Performance Measurement and Instrumentation</title>
+    <updated>2005-12-12T12:12:12Z</updated>
+    <summary type="html"><![CDATA[Scott Ruthfield describes Jiffy, a new open source performance measurement tool for measuring true client-side performance of web sites. Ruthfield identifies the components of website performance problems and the decision process that led WhitePages.com to develop their own solution. Jiffy&#039;s goals, components, and a sample implementation provide a thorough introduction to the toolkit.<div class="feedflare">
+<a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xN4PA6JyHJs:neVhOPYnhTA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xN4PA6JyHJs:neVhOPYnhTA:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xN4PA6JyHJs:neVhOPYnhTA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.conversationsnetwork.org/~ff/channel/itc?a=xN4PA6JyHJs:neVhOPYnhTA:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/channel/itc?d=2mJPEYqXBVI" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/channel/itc/~4/xN4PA6JyHJs" height="1" width="1"/>]]></summary>
+    <link rel="enclosure" title="MP3" type="audio/mpeg" href="http://feeds.conversationsnetwork.org/~r/channel/itc/~5/EnfNpCDxao4/ITC.Velocity-ScottRuthfield-2008.06.23.mp3" length="8793945" />
+  </entry>
+  </feed>

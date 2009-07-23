@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Ruby Inside</title>
+	
+	<link>http://www.rubyinside.com</link>
+	<description />
+	<pubDate>Thu, 16 Jul 2009 05:00:10 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.6</generator>
+	<language>en</language>
+			<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/RubyInside" type="application/rss+xml" /><feedburner:emailServiceId>RubyInside</feedburner:emailServiceId><feedburner:feedburnerHostname>http://feedburner.google.com</feedburner:feedburnerHostname><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com" /><item>
+		<title>Alias: Enhance Your Ruby Console/irb Experience</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/a_c6jZE90r4/alias-for-ruby-console-quickness-2025.html</link>
+		<comments>http://www.rubyinside.com/alias-for-ruby-console-quickness-2025.html#comments</comments>
+		<pubDate>Thu, 16 Jul 2009 04:59:14 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Cool]]></category>
+
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=2025</guid>
+		<description><![CDATA[<p><img src="http://www.rubyinside.com/wp-content/uploads/2009/07/alias.jpg" alt="alias" style="float:left; margin-right:12px; margin-bottom:12px" />A couple of weeks ago we featured <a href="http://tagaholic.me/">Gabriel Horner</a>'s <a href="http://www.rubyinside.com/hirb-an-easy-to-use-view-framework-for-irb-1853.html">Hirb</a> framework for formatting irb output. I've recently been playing with another of his projects, <a href="http://github.com/cldwalker/alias/tree/master">Alias</a>, which further enhances the Ruby Console experience (but it conceivably could be used in your Ruby programs too).</p>
+<p>It's already possible to set up aliases in your .irbrc file, but this can get confusing and it's easy to run into conflicts. <em>Alias</em> takes a more structured, hash-based approach which (by default) lets you set up aliases for constants,&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.rubyinside.com/wp-content/uploads/2009/07/alias.jpg" alt="alias" style="float:left; margin-right:12px; margin-bottom:12px" />A couple of weeks ago we featured <a href="http://tagaholic.me/">Gabriel Horner</a>'s <a href="http://www.rubyinside.com/hirb-an-easy-to-use-view-framework-for-irb-1853.html">Hirb</a> framework for formatting irb output. I've recently been playing with another of his projects, <a href="http://github.com/cldwalker/alias/tree/master">Alias</a>, which further enhances the Ruby Console experience (but it conceivably could be used in your Ruby programs too).</p>
+<p>It's already possible to set up aliases in your .irbrc file, but this can get confusing and it's easy to run into conflicts. <em>Alias</em> takes a more structured, hash-based approach which (by default) lets you set up aliases for constants, instance methods or class methods. For example:</p>
+<p><code>create_aliases :instance_method, "ActiveRecord::Base"=&gt;{"update_attribute"=&gt;'ua'}</code></p>
+<p>You can store and retrieve your aliases in an easy-to-read <a href="http://en.wikipedia.org/wiki/YAML">YAML</a> configuration file and it's simple to have script/console (or irb) load them automatically from that file on start-up, by adding a small amount of code to your environment.rb (or .irbrc) file.</p>
+<p>Extending Alias is fairly straightforward. Just subclass Alias::Creator and implement a few methods for mapping the aliases, checking their validity and generating the Ruby code to be evaluated.</p>
+<p>For more details, check out the <a href="http://tagaholic.me/alias/doc/index.html">documentation</a> and Gabriel's <a href="http://tagaholic.me/2009/07/07/alias-quickness-in-the-ruby-console.html">recent blog post</a>. You can install the gem from <a href="http://github.com/cldwalker/alias/tree/master">Github</a> with:</p>
+<p><code>sudo gem install cldwalker-alias -s http://gems.github.com</code></p>
+<p style="background-color:#ffd;padding:8px;font-family:verdana;font-size:12px"><img src="http://www.rubyinside.com/wp-content/uploads/2009/07/jslab.png" width="32" height="35" alt="jslab.png" style="float:right; margin-left:12px; border:1px #000000 solid;" /><em>Also..</em> <a href="http://jumpstartlab.com" rel="nofollow">Jumpstart Lab</a> is offering workshops teaching <a href="http://rubyjumpstart.com/" rel="nofollow">Ruby for beginning <em>female</em> programmers (<strong>Ruby Jumpstart</strong>)</a> on August 1st and 2nd, then <a href="http://railsjumpstart.com/" rel="nofollow">beginning Rails (<strong>Rails Jumpstart</strong>)</a> for everyone on August 15 &amp; 16. Save 10% with code "rubyinside"!</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=a_c6jZE90r4:VDRtiGPXhxw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=a_c6jZE90r4:VDRtiGPXhxw:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=a_c6jZE90r4:VDRtiGPXhxw:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=a_c6jZE90r4:VDRtiGPXhxw:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=a_c6jZE90r4:VDRtiGPXhxw:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=a_c6jZE90r4:VDRtiGPXhxw:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=a_c6jZE90r4:VDRtiGPXhxw:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/a_c6jZE90r4" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/alias-for-ruby-console-quickness-2025.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/alias-for-ruby-console-quickness-2025.html</feedburner:origLink></item>
+		<item>
+		<title>6 Free Ruby Icons For Your Projects</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/Wu4FJ-KpDd8/6-free-ruby-icons-for-your-projects-2056.html</link>
+		<comments>http://www.rubyinside.com/6-free-ruby-icons-for-your-projects-2056.html#comments</comments>
+		<pubDate>Wed, 15 Jul 2009 18:28:32 +0000</pubDate>
+		<dc:creator>Peter Cooper</dc:creator>
+		
+		<category><![CDATA[Cool]]></category>
+
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<category><![CDATA[Ruby on Rails]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/6-free-ruby-icons-for-your-projects-2056.html</guid>
+		<description><![CDATA[<p><img src="http://www.rubyinside.com/wp-content/uploads/2009/07/rubyicons-1.gif" width="366" height="223" alt="rubyicons-1.gif" style="border:1px #000000 solid;" /></p>
+<p>Several weeks ago, stock icon company <a href="http://www.iconshock.com/">Iconshock</a> offered to design some icons for Ruby Inside to give to its readers. Initially skeptical, I was convinced to give it a try after seeing some of their other work. Now, the first 6 icons are back and.. they're totally free for you to use. <b>Grab</b> <a href="http://www.rubyinside.com/ruby-inside-icons.zip"><b>this ZIP file</b></a> <b>that contains PNG and EPS (ideal for Illustrator) versions of the icons and give them a go!</b></p>]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.rubyinside.com/wp-content/uploads/2009/07/rubyicons-1.gif" width="366" height="223" alt="rubyicons-1.gif" style="border:1px #000000 solid;" /></p>
+<p>Several weeks ago, stock icon company <a href="http://www.iconshock.com/">Iconshock</a> offered to design some icons for Ruby Inside to give to its readers. Initially skeptical, I was convinced to give it a try after seeing some of their other work. Now, the first 6 icons are back and.. they're totally free for you to use. <b>Grab</b> <a href="http://www.rubyinside.com/ruby-inside-icons.zip"><b>this ZIP file</b></a> <b>that contains PNG and EPS (ideal for Illustrator) versions of the icons and give them a go!</b></p>
+<p>The six icons signify Ruby on Rails, Ruby itself, two file types (Ruby and RubyGems), an application, and a generic cog. All can be used as you see fit. Iconshock told me that there are "no special terms or conditions" and that they can be used "for personal and commercial projects." They'd be cool to use in logos for Ruby libraries, on your blog, or anywhere else where Ruby related imagery would come in useful. Giving Iconshock credit is optional but appreciated.</p>
+<h3>What icons do you want to see next?</h3>
+<p>Iconshock have already expressed an interest in producing a second set of icons for Ruby Inside. What do you want to see? The first set were based on my ideas, but next time around they can produce the icons that <i>you</i> really want or think would be useful to the Ruby and Rails communities. What sort of icons could you use for your Ruby related Web sites, blogs, libraries, events, and so forth? Leave a comment against this post.</p>
+<h3>So who are Iconshock anyway?</h3>
+<p><a href="http://www.iconshock.com/" style="text-decoration: none;"><img src="http://www.rubyinside.com/wp-content/uploads/2009/07/iconshock.png" width="324" height="91" alt="iconshock.png" style="float:right; margin-bottom:12px; margin-left:12px;" /></a></p>
+<p>Ruby Inside has no financial relationship with Iconshock - we get some cool icons to give away in return for pointing out that Iconshock made them, and that they have plenty more (700,000+!) for sale on <a href="http://www.iconshock.com/">their site.</a> They seem quite experienced in producing icons for applications and all of the icons I've browsed through in their catalog have been impressive so far.</p>
+<p>So, <a href="http://www.iconshock.com/">check Iconshock out</a> if you're interested in buying some icon sets or getting your own custom icons done (for $50 each if you want three or more). Perhaps they'll keep making us some cool free icons to give away..</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=Wu4FJ-KpDd8:WGL_lRBkdw4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=Wu4FJ-KpDd8:WGL_lRBkdw4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=Wu4FJ-KpDd8:WGL_lRBkdw4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=Wu4FJ-KpDd8:WGL_lRBkdw4:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=Wu4FJ-KpDd8:WGL_lRBkdw4:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=Wu4FJ-KpDd8:WGL_lRBkdw4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=Wu4FJ-KpDd8:WGL_lRBkdw4:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/Wu4FJ-KpDd8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/6-free-ruby-icons-for-your-projects-2056.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/6-free-ruby-icons-for-your-projects-2056.html</feedburner:origLink></item>
+		<item>
+		<title>SexpPath: A Ruby DSL for Pattern Matching S-Expressions</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/4q9BuDT3Byo/sexppath-a-ruby-dsl-for-pattern-matching-s-expressions-2019.html</link>
+		<comments>http://www.rubyinside.com/sexppath-a-ruby-dsl-for-pattern-matching-s-expressions-2019.html#comments</comments>
+		<pubDate>Tue, 14 Jul 2009 16:48:06 +0000</pubDate>
+		<dc:creator>Ari Brown</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=2019</guid>
+		<description><![CDATA[<p><img style="float: left; margin: 0px 12px 12px 0px" title="braces" src="http://www.rubyinside.com/wp-content/uploads/2009/07/braces.png" alt="" width="80" />With people occasionally talking about "Code vs. Data", it only makes sense that you should be able process over code as you would a string. <a href="http://endofline.wordpress.com/2009/06/22/sexp_path/">Sexp Path</a> is a code processing tool that allows you to search over and process Ruby code in the form of S-Expressions.</p>
+<p>For those who don't know, an S-Expression (or simply, a "sexp") is an iterable way of representing code or data. Using Ryan Davis' <a href="http://www.zenspider.com/ZSS/Products/ParseTree/">Parse Tree</a>, you can parse Ruby files and process over them using&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img style="float: left; margin: 0px 12px 12px 0px" title="braces" src="http://www.rubyinside.com/wp-content/uploads/2009/07/braces.png" alt="" width="80" />With people occasionally talking about "Code vs. Data", it only makes sense that you should be able process over code as you would a string. <a href="http://endofline.wordpress.com/2009/06/22/sexp_path/">Sexp Path</a> is a code processing tool that allows you to search over and process Ruby code in the form of S-Expressions.</p>
+<p>For those who don't know, an S-Expression (or simply, a "sexp") is an iterable way of representing code or data. Using Ryan Davis' <a href="http://www.zenspider.com/ZSS/Products/ParseTree/">Parse Tree</a>, you can parse Ruby files and process over them using Sexp Path. It's a bit like like XPath or regular expressions for your code.</p>
+<p>The foundation of Sexp Path is the query, formed with <code>Q?{ ... }</code>, which is applied to the sexp via the <code>/</code> method. These methods can be chained, and the results processed via the <code>each</code> method. Using <a href="http://github.com/adamsanderson/sexp_path/blob/b7ee04fb74dc25652bf691c224fa6dc1aa3c9f4f/examples/print_methods.rb">this</a> as an example, Sexp Path also supports named captures like <code>Q?{ s(:class, atom % 'class_name', _, _) }</code> in line 16 so that the second atom is accessible via the <code>class_name</code> attribute in line 25.</p>
+<p>The <a href="http://github.com/adamsanderson/sexp_path/tree">code</a> is stored on GitHub. Unclear of where the project is headed, Adam Sanderson, the creator, encourages forking and feedback.</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=4q9BuDT3Byo:VrbU3S31a5A:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=4q9BuDT3Byo:VrbU3S31a5A:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=4q9BuDT3Byo:VrbU3S31a5A:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=4q9BuDT3Byo:VrbU3S31a5A:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=4q9BuDT3Byo:VrbU3S31a5A:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=4q9BuDT3Byo:VrbU3S31a5A:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=4q9BuDT3Byo:VrbU3S31a5A:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/4q9BuDT3Byo" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/sexppath-a-ruby-dsl-for-pattern-matching-s-expressions-2019.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/sexppath-a-ruby-dsl-for-pattern-matching-s-expressions-2019.html</feedburner:origLink></item>
+		<item>
+		<title>Gibbler: Git-like Hashes and History for Ruby Objects</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/2F1Xu04fD7Y/gibbler-git-like-hashes-and-history-for-ruby-objects-1980.html</link>
+		<comments>http://www.rubyinside.com/gibbler-git-like-hashes-and-history-for-ruby-objects-1980.html#comments</comments>
+		<pubDate>Mon, 13 Jul 2009 13:53:11 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Cool]]></category>
+
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1980</guid>
+		<description><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/whoababy.gif" alt="gibbler" />Inspired by <a href="http://git-scm.com/">Git</a> (the version control system), <a href="http://goldensword.ca/">Delano Mandelbaum</a> has come up with a library called <a href="http://github.com/delano/gibbler/tree/master">Gibbler</a>, which produces hashes and history for Ruby objects.</p>
+<p>Calling the <code>gibbler</code> method on an object will produce a 40 character git-like SHA1 hash (or you can use <code>gibbler.short</code> to get just the first 8 chars).</p>
+<p><code>my_object.gibbler.short         # =&#62; 4c558a56</code></p>
+<p>Gibbler can also track changes to an object.  Every time you call <code>gibbler_commit</code>, it will create a clone of the current object and store it in an instance variable.  And just&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/whoababy.gif" alt="gibbler" />Inspired by <a href="http://git-scm.com/">Git</a> (the version control system), <a href="http://goldensword.ca/">Delano Mandelbaum</a> has come up with a library called <a href="http://github.com/delano/gibbler/tree/master">Gibbler</a>, which produces hashes and history for Ruby objects.</p>
+<p>Calling the <code>gibbler</code> method on an object will produce a 40 character git-like SHA1 hash (or you can use <code>gibbler.short</code> to get just the first 8 chars).</p>
+<p><code>my_object.gibbler.short         # =&gt; 4c558a56</code></p>
+<p>Gibbler can also track changes to an object.  Every time you call <code>gibbler_commit</code>, it will create a clone of the current object and store it in an instance variable.  And just like with git, you can view or revert to any version in the history.  By default Gibbler supports history for Hashes, Arrays and Strings.</p>
+<p>Get <a href="http://github.com/delano/gibbler/tree/master">Gibbler</a> and read the <a href="http://delano.github.com/gibbler/">documentation</a> on Github. Delano makes the disclaimer that his code is still very new and not particularly efficient (due to keeping everything in memory), but he invites others to play with it and submit patches.</p>
+<p class="s" style="font-family:verdana;font-style:italic;padding:8px 4px;font-size: 12px"><strong>Support from: <a rel="nofollow" href="http://www.brightbox.co.uk/">Brightbox</a>; - Europe's leading provider of <a rel="nofollow" href="http://www.brightbox.co.uk/rails-hosting-pricing">Ruby on Rails hosting</a>.</strong> Now with Phusion Passenger support, each Brightbox server comes with access to a managed MySQL cluster and redundant SAN storage. Brightbox also provides managed services for large scale applications and dedicated clusters.</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=2F1Xu04fD7Y:9U8spUDks30:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=2F1Xu04fD7Y:9U8spUDks30:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=2F1Xu04fD7Y:9U8spUDks30:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=2F1Xu04fD7Y:9U8spUDks30:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=2F1Xu04fD7Y:9U8spUDks30:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=2F1Xu04fD7Y:9U8spUDks30:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=2F1Xu04fD7Y:9U8spUDks30:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/2F1Xu04fD7Y" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/gibbler-git-like-hashes-and-history-for-ruby-objects-1980.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/gibbler-git-like-hashes-and-history-for-ruby-objects-1980.html</feedburner:origLink></item>
+		<item>
+		<title>Parkaby: Faster HTML Generation with Ruby</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/ktv2_jByhpg/parkaby-faster-html-generation-with-ruby-1965.html</link>
+		<comments>http://www.rubyinside.com/parkaby-faster-html-generation-with-ruby-1965.html#comments</comments>
+		<pubDate>Tue, 07 Jul 2009 19:17:00 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1965</guid>
+		<description><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/parkaby.jpg" alt="" /><a href="http://github.com/why/markaby/tree/master">Why's Markaby</a> is a really convenient bit of Ruby for generating HTML in your applications, rather than having to fiddle about with string interpolation or ERb, tangling together HTML and Ruby.</p>
+<p>However, Markaby can be slow compared with other options like Erubis or HAML. <a href="http://judofyr.net/">Magnus Holm</a> has been working on <strong>an alternative solution called <a href="http://github.com/judofyr/parkaby/tree/master">Parkaby</a></strong>, which uses <a href="http://rubyforge.org/projects/parsetree/">ParseTree</a> for improved performance (coming out <em>up to 20 times faster</em> than Markaby in Magnus's tests).  Parkaby uses near-identical syntax to Markaby, so you still get to write beautiful&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/parkaby.jpg" alt="" /><a href="http://github.com/why/markaby/tree/master">Why's Markaby</a> is a really convenient bit of Ruby for generating HTML in your applications, rather than having to fiddle about with string interpolation or ERb, tangling together HTML and Ruby.</p>
+<p>However, Markaby can be slow compared with other options like Erubis or HAML. <a href="http://judofyr.net/">Magnus Holm</a> has been working on <strong>an alternative solution called <a href="http://github.com/judofyr/parkaby/tree/master">Parkaby</a></strong>, which uses <a href="http://rubyforge.org/projects/parsetree/">ParseTree</a> for improved performance (coming out <em>up to 20 times faster</em> than Markaby in Magnus's tests).  Parkaby uses near-identical syntax to Markaby, so you still get to write beautiful ruby code for building your HTML.</p>
+<pre>Parkaby {
+    html {
+      head {
+        title "happy title"
+      }
+      body {
+        h1 "happy heading"
+        a "a link", "href" =&gt; "url"
+      }
+    }
+  }</pre>
+<p>Magnus admits that Parkaby is currently only experimental, and that there's room for more optimization, but I think he might be onto something. Parkaby is available on <a href="http://github.com/judofyr/parkaby/tree/master">Github</a>.</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=ktv2_jByhpg:teLgoISxAHQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=ktv2_jByhpg:teLgoISxAHQ:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=ktv2_jByhpg:teLgoISxAHQ:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=ktv2_jByhpg:teLgoISxAHQ:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=ktv2_jByhpg:teLgoISxAHQ:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=ktv2_jByhpg:teLgoISxAHQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=ktv2_jByhpg:teLgoISxAHQ:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/ktv2_jByhpg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/parkaby-faster-html-generation-with-ruby-1965.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/parkaby-faster-html-generation-with-ruby-1965.html</feedburner:origLink></item>
+		<item>
+		<title>Build Safer Ruby Daemons with RobustThread</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/yLO8ne04zgw/robustthread-for-safer-ruby-daemons-1948.html</link>
+		<comments>http://www.rubyinside.com/robustthread-for-safer-ruby-daemons-1948.html#comments</comments>
+		<pubDate>Mon, 06 Jul 2009 14:00:11 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1948</guid>
+		<description><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/robustthread.jpg" alt="" />When running a Ruby daemon which executes code in a loop, if the process is killed while something is happening then problems can occur if the code doesn't handle all the exceptions properly or if the loop isn't broken cleanly.  <a href="http://github.com/JaredKuolt/robustthread/tree/master">RobustThread</a> is a Ruby class by <a href="http://superjared.com/">Jared Kuolt</a> for the creation of threads, which helps to alleviate this problem.</p>
+<p>RobustThread lets you set up loggers, exception handlers and callbacks for threads, exposing the actual thread via an attribute.  By default, it logs to&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/robustthread.jpg" alt="" />When running a Ruby daemon which executes code in a loop, if the process is killed while something is happening then problems can occur if the code doesn't handle all the exceptions properly or if the loop isn't broken cleanly.  <a href="http://github.com/JaredKuolt/robustthread/tree/master">RobustThread</a> is a Ruby class by <a href="http://superjared.com/">Jared Kuolt</a> for the creation of threads, which helps to alleviate this problem.</p>
+<p>RobustThread lets you set up loggers, exception handlers and callbacks for threads, exposing the actual thread via an attribute.  By default, it logs to the standard output, but this is configurable by using a Logger object.</p>
+<p>You can apply labels to loops or threads, which can be useful for logging and debugging.  But perhaps more importantly, by using <code>RobustThread.loop</code>, you can change the way that looping works so that it cleanly exits the loop on the next sleep call before rejoining the thread.</p>
+<pre>RobustThread.loop(:seconds =&gt; x) do
+  do_something
+end</pre>
+<p>Install RobustThread with <code>gem install robustthread</code>, or get the source from <a href="http://github.com/JaredKuolt/robustthread/tree/master">Github</a>.  Jared provides some background and a few more examples on <a href="http://superjared.com/entry/ruby-daemons-using-robustthread/">his blog</a>.</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=yLO8ne04zgw:B3SM1IkS__E:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=yLO8ne04zgw:B3SM1IkS__E:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=yLO8ne04zgw:B3SM1IkS__E:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=yLO8ne04zgw:B3SM1IkS__E:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=yLO8ne04zgw:B3SM1IkS__E:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=yLO8ne04zgw:B3SM1IkS__E:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=yLO8ne04zgw:B3SM1IkS__E:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/yLO8ne04zgw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/robustthread-for-safer-ruby-daemons-1948.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/robustthread-for-safer-ruby-daemons-1948.html</feedburner:origLink></item>
+		<item>
+		<title>Easy Web Spidering in Ruby with Anemone</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/KcuAT9TKJgk/web-spidering-with-anemone-1927.html</link>
+		<comments>http://www.rubyinside.com/web-spidering-with-anemone-1927.html#comments</comments>
+		<pubDate>Thu, 02 Jul 2009 20:40:06 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1927</guid>
+		<description><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/anemone.jpg" alt="anemone" /> <a href="http://anemone.rubyforge.org/">Anemone</a> is a free, multi-threaded Ruby web spider framework from <a href="http://www.chriskite.com/">Chris Kite</a>, which is useful for collecting information about websites. With Anemone you can write tasks to generate some interesting statistics on a site just by giving it the URL.</p>
+<p>Its only dependency is <a href="http://github.com/tenderlove/nokogiri/tree/master">Nokogiri</a> (an HTML and XML parser). Other than that, you just need to install the gem to get started using Anemone's simple syntax which, among other things, allows you to tell it which pages to include (based on regular&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img style="float:left;margin-right:12px;margin-bottom:12px" src="http://www.rubyinside.com/wp-content/uploads/2009/07/anemone.jpg" alt="anemone" /> <a href="http://anemone.rubyforge.org/">Anemone</a> is a free, multi-threaded Ruby web spider framework from <a href="http://www.chriskite.com/">Chris Kite</a>, which is useful for collecting information about websites. With Anemone you can write tasks to generate some interesting statistics on a site just by giving it the URL.</p>
+<p>Its only dependency is <a href="http://github.com/tenderlove/nokogiri/tree/master">Nokogiri</a> (an HTML and XML parser). Other than that, you just need to install the gem to get started using Anemone's simple syntax which, among other things, allows you to tell it which pages to include (based on regular expressions) or define callbacks.</p>
+<p>This example taken from Anemone's homepage prints out the URL of every page on a site:</p>
+<pre>require 'anemone'
+
+Anemone.crawl("http://www.example.com/") do |anemone|
+  anemone.on_every_page do |page|
+    puts page.url
+  end
+end</pre>
+<p>The bin folder in the project contains some more in-depth examples, including tasks for counting the number of unique pages on a site, the number of pages at a certain depth in a site, or a list of urls encountered.  There's also a combined-task which wraps up a few of these, intended to be run as a daily cron job.</p>
+<p>You can install Anemone as a gem or get the source from <a href="http://github.com/chriskite/anemone/tree/master">Github</a> of course, and there's some fairly comprehensive RDoc documentation available in the source or <a href="http://rdoc.info/projects/chriskite/anemone">online</a>.</p>
+<div style="background-color: #ffd; padding: 8px; font-family: verdana; font-size: 12px"><a href="http://mobileorchard.com/inside" rel="nofollow"><img src="http://www.rubyinside.com/wp-content/uploads/2009/06/rupho.png" width="74" height="40" alt="rupho.png" style="float:left; margin-right:12px;" /></a><em>Also worth seeing.. </em> <strong>Mobile Orchard's <a href="http://mobileorchard.com/ri">Beginning iPhone Programming Workshop</a>.</strong>  Bay Area/July 30-31.  Seattle/Aug 20-21. Ruby Inside discount of $200 -- use "ri" discount code.</div>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=KcuAT9TKJgk:S6ljhQ9W6f0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=KcuAT9TKJgk:S6ljhQ9W6f0:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=KcuAT9TKJgk:S6ljhQ9W6f0:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=KcuAT9TKJgk:S6ljhQ9W6f0:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=KcuAT9TKJgk:S6ljhQ9W6f0:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=KcuAT9TKJgk:S6ljhQ9W6f0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=KcuAT9TKJgk:S6ljhQ9W6f0:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/KcuAT9TKJgk" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/web-spidering-with-anemone-1927.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/web-spidering-with-anemone-1927.html</feedburner:origLink></item>
+		<item>
+		<title>Integrity: A Fun And Easy Continuous Integration Server</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/1ChWZBCT3Gk/integrity-a-fun-and-easy-continuous-integration-server-1890.html</link>
+		<comments>http://www.rubyinside.com/integrity-a-fun-and-easy-continuous-integration-server-1890.html#comments</comments>
+		<pubDate>Wed, 01 Jul 2009 15:10:09 +0000</pubDate>
+		<dc:creator>Matt Sears</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1890</guid>
+		<description><![CDATA[<p><img class="alignleft size-medium wp-image-1891" src="http://www.rubyinside.com/wp-content/uploads/2009/07/integrity.png" style="margin-right: 12px; margin-bottom: 12px; float: left" alt="Integrity" width="90" height="70" /><a href="http://integrityapp.com">Integrity</a> is a simple and lightweight <a href="http://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration</a> server written in Sinatra (a DSL for quickly creating web-applications in Ruby). When commits are pushed to a Git repository, Integrity builds, runs tests, and reports the build status to each team member. It supports a variety of notifiers including Email, IRC, and Twitter.</p>
+<p>When it comes to developing large projects with multiple team members, it’s common nowadays to set up a Continuous Integration (CI) server. CI is a development practice where developers combine their&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignleft size-medium wp-image-1891" src="http://www.rubyinside.com/wp-content/uploads/2009/07/integrity.png" style="margin-right: 12px; margin-bottom: 12px; float: left" alt="Integrity" width="90" height="70" /><a href="http://integrityapp.com">Integrity</a> is a simple and lightweight <a href="http://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration</a> server written in Sinatra (a DSL for quickly creating web-applications in Ruby). When commits are pushed to a Git repository, Integrity builds, runs tests, and reports the build status to each team member. It supports a variety of notifiers including Email, IRC, and Twitter.</p>
+<p>When it comes to developing large projects with multiple team members, it’s common nowadays to set up a Continuous Integration (CI) server. CI is a development practice where developers combine their work frequently and run tests over the whole project in order to identify errors early. Wikipedia has <a href="http://en.wikipedia.org/wiki/Continuous_integration">a good summary</a> of the practice.</p>
+<p>Integrity makes it easy to setup a CI server for your Ruby apps.  It lowers the barrier for people starting out with Continuous Integration, as well as provide a simpler and minimal alternative. The project’s <a href="http://integrityapp.com">homepage</a> includes helpful installation instructions for Phusion Passenger, Thin, and Heroku.</p>
+<div style="background-color: #cef; padding: 4px"><em><a href="http://mattsears.com">Matt Sears</a> is a Ruby developer and co-founder of <a href="http://littlelines.com">Littlelines</a>, a Rails development and web design company. </em></div>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=1ChWZBCT3Gk:OAYhs6EaUvc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=1ChWZBCT3Gk:OAYhs6EaUvc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=1ChWZBCT3Gk:OAYhs6EaUvc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=1ChWZBCT3Gk:OAYhs6EaUvc:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=1ChWZBCT3Gk:OAYhs6EaUvc:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=1ChWZBCT3Gk:OAYhs6EaUvc:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=1ChWZBCT3Gk:OAYhs6EaUvc:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/1ChWZBCT3Gk" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/integrity-a-fun-and-easy-continuous-integration-server-1890.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/integrity-a-fun-and-easy-continuous-integration-server-1890.html</feedburner:origLink></item>
+		<item>
+		<title>Getting Started with MongoDB and Ruby</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/i1pVw4jtmSk/getting-started-mongodb-ruby-1875.html</link>
+		<comments>http://www.rubyinside.com/getting-started-mongodb-ruby-1875.html#comments</comments>
+		<pubDate>Tue, 30 Jun 2009 23:45:33 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1875</guid>
+		<description><![CDATA[<p><img class="alignnone size-medium wp-image-1874" style="float:left; margin-bottom: 12px; margin-right: 12px;" title="mongomapper_logo" src="http://www.rubyinside.com/wp-content/uploads/2009/06/mongomapper_logo.jpg" alt="mongo mapper" /> <a href="http://www.mongodb.org/">MongoDB</a> a is a high-performance, open source, schema-free, document-oriented database written in C++. It's sort of a cross between scalable key/value stores and traditional functionality-rich relational databases.</p>
+<p>MongoDB might be useful as a fast, simple, non-transactional data store for a web application, or as a caching mechanism.  You don't ever need to worry about migrations due to Mongo's schema-less nature.</p>
+<p>Getting started with MongoDB using Ruby is now fairly straightforward thanks to the <a href="http://github.com/mongodb/mongo-ruby-driver/tree/master">Mongo Ruby driver</a>. This provides access to the core Mongo&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-1874" style="float:left; margin-bottom: 12px; margin-right: 12px;" title="mongomapper_logo" src="http://www.rubyinside.com/wp-content/uploads/2009/06/mongomapper_logo.jpg" alt="mongo mapper" /> <a href="http://www.mongodb.org/">MongoDB</a> a is a high-performance, open source, schema-free, document-oriented database written in C++. It's sort of a cross between scalable key/value stores and traditional functionality-rich relational databases.</p>
+<p>MongoDB might be useful as a fast, simple, non-transactional data store for a web application, or as a caching mechanism.  You don't ever need to worry about migrations due to Mongo's schema-less nature.</p>
+<p>Getting started with MongoDB using Ruby is now fairly straightforward thanks to the <a href="http://github.com/mongodb/mongo-ruby-driver/tree/master">Mongo Ruby driver</a>. This provides access to the core Mongo database operations, and natively supports many Ruby objects without requiring conversion (including nested hashes).  There's even an <a href="http://github.com/mongodb/activerecord-mongo-adapter/tree/master">ActiveRecord connection adapter for Mongo</a>.</p>
+<p>Earlier this week, John Nunemaker announced his <a href="http://railstips.org/2009/6/27/mongomapper-the-rad-mongo-wrapper">MongoMapper</a>, a wrapper for MongoDB which includes typecasting, callbacks, validations and other ActiveRecord-like features. The project is heading towards drop-in Rails compatibility.</p>
+<p>MongoMapper uses a default connection from the Ruby driver, and to create a MongoMapper model you just need to include <code>MongoMapper::Document</code> in the class (as opposed to ActiveRecord's inheritance pattern).  From there, it's simple to define your document's keys, validations and callbacks.</p>
+<p>The MongoMapper gem is available from RubyForge or <a href="http://github.com/jnunemaker/mongomapper/tree/master">Github</a>, and you can read more on <a href="http://railstips.org/2009/6/27/mongomapper-the-rad-mongo-wrapper">RailsTips</a>.</p>
+<div style="background-color: #ffd; padding: 8px; font-family: verdana; font-size: 12px"><a href="http://mobileorchard.com/inside" rel="nofollow"><img src="http://www.rubyinside.com/wp-content/uploads/2009/06/rupho.png" width="74" height="40" alt="rupho.png" style="float:left; margin-right:12px;" /></a><em>Also worth seeing.. </em> <strong>Mobile Orchard's <a href="http://mobileorchard.com/ri">Beginning iPhone Programming Workshop</a>.</strong>  Bay Area/July 30-31.  Seattle/Aug 20-21. Ruby Inside discount of $200 -- use "ri" discount code.</div>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=i1pVw4jtmSk:KUwQgSfILO4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=i1pVw4jtmSk:KUwQgSfILO4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=i1pVw4jtmSk:KUwQgSfILO4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=i1pVw4jtmSk:KUwQgSfILO4:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=i1pVw4jtmSk:KUwQgSfILO4:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=i1pVw4jtmSk:KUwQgSfILO4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=i1pVw4jtmSk:KUwQgSfILO4:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/i1pVw4jtmSk" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/getting-started-mongodb-ruby-1875.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/getting-started-mongodb-ruby-1875.html</feedburner:origLink></item>
+		<item>
+		<title>Hirb: An Easy-to-Use View Framework for irb</title>
+		<link>http://feedproxy.google.com/~r/RubyInside/~3/narLdfQH3nU/hirb-an-easy-to-use-view-framework-for-irb-1853.html</link>
+		<comments>http://www.rubyinside.com/hirb-an-easy-to-use-view-framework-for-irb-1853.html#comments</comments>
+		<pubDate>Sun, 28 Jun 2009 19:23:19 +0000</pubDate>
+		<dc:creator>Ric Roberts</dc:creator>
+		
+		<category><![CDATA[Miscellaneous]]></category>
+
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://www.rubyinside.com/?p=1853</guid>
+		<description><![CDATA[<p><a href="http://www.rubyinside.com/wp-content/uploads/2009/06/hirb.jpg"><img style="float:left;margin-right:12px; margin-bottom:12px;" title="hirb" src="http://www.rubyinside.com/wp-content/uploads/2009/06/hirb.jpg" alt="hirb" width="60" height="61" /></a> The Interactive Ruby Shell (<a href="http://en.wikipedia.org/wiki/Interactive_Ruby_Shell">irb</a>) and the Rails console are great for interacting and experimenting with your ruby application code, but sometimes it's hard to visualize the output. Gabriel Horner has come to the rescue with <a title="Hirb" href="http://tagaholic.me/hirb/">Hirb</a>: a 'mini view framework' for irb which is designed to improve the default output to make it more human-readable.</p>
+<p>Hirb does this by formatting console output according to its type, and paging if there's more than a screenful to display. For example, Hirb will automatically display&#8230;</p>]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.rubyinside.com/wp-content/uploads/2009/06/hirb.jpg"><img style="float:left;margin-right:12px; margin-bottom:12px;" title="hirb" src="http://www.rubyinside.com/wp-content/uploads/2009/06/hirb.jpg" alt="hirb" width="60" height="61" /></a> The Interactive Ruby Shell (<a href="http://en.wikipedia.org/wiki/Interactive_Ruby_Shell">irb</a>) and the Rails console are great for interacting and experimenting with your ruby application code, but sometimes it's hard to visualize the output. Gabriel Horner has come to the rescue with <a title="Hirb" href="http://tagaholic.me/hirb/">Hirb</a>: a 'mini view framework' for irb which is designed to improve the default output to make it more human-readable.</p>
+<p>Hirb does this by formatting console output according to its type, and paging if there's more than a screenful to display. For example, Hirb will automatically display ActiveRecord model instances in a non-wrapping, table-like view.<br />
+<code><br />
+irb&gt;&gt; Tag.last<br />
++-----+-------------------------+-------------+<br />
+| id  | created_at              | description |<br />
++-----+-------------------------+-------------+<br />
+| 907 | 2009-03-06 21:10:41 UTC | blah        |<br />
++-----+-------------------------+-------------+<br />
+1 row in set<br />
+</code><br />
+There's also a helper provided which displays a collection of arrays or hashes as a tree. This might be useful for visualizing class inheritance trees, nested classes or relationships between ActiveRecord models (as <a href="http://tagaholic.me/2009/03/18/ruby-class-trees-rails-plugin-trees-with-hirb.html">this blog post</a> describes).</p>
+<p>In addition to the defaults you can specify your own reusable views, <a href="http://tagaholic.me/hirb/doc/classes/Hirb/Helpers/Tree.html">as the author explains</a> in the documentation, leading you through an example of displaying hashes as <a href="http://en.wikipedia.org/wiki/YAML">YAML</a>.</p>
+<p>Hirb prints to the standard output by default, but you can configure it to write to anywhere you like, such as a log file.</p>
+<p>The source code is on <a href="http://github.com/cldwalker/hirb/tree/master">Github</a> (or it can be installed as a gem), with documentation available on the <a href="http://tagaholic.me/hirb/doc/index.html">author's site</a>. Hirb users are invited to share any views they have written by forking the Github repository and adding them into the project structure.</p>
+<p></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/RubyInside?a=narLdfQH3nU:k0JBRazoBOU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/RubyInside?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=narLdfQH3nU:k0JBRazoBOU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=narLdfQH3nU:k0JBRazoBOU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=narLdfQH3nU:k0JBRazoBOU:3H-1DwQop_U"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=narLdfQH3nU:k0JBRazoBOU:3H-1DwQop_U" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/RubyInside?a=narLdfQH3nU:k0JBRazoBOU:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/RubyInside?i=narLdfQH3nU:k0JBRazoBOU:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/RubyInside/~4/narLdfQH3nU" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.rubyinside.com/hirb-an-easy-to-use-view-framework-for-irb-1853.html/feed</wfw:commentRss>
+		<feedburner:origLink>http://www.rubyinside.com/hirb-an-easy-to-use-view-framework-for-irb-1853.html</feedburner:origLink></item>
+	</channel>
+</rss>
