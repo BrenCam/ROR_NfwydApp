@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Getting Started with MongoDB and Ruby</title>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+
+  <link rel="stylesheet" href="http://www.rubyinside.com/wp-content/themes/default/style.css" type="text/css" />
+  <!--[if IE 6]>
+    <style type="text/css">.shrinkie6 { width: 405px; }
+PRE { width: 90%; }
+</style>
+  <![endif]-->
+  <link rel="alternate" type="application/rss+xml" title="Ruby Inside" href="http://www.rubyinside.com/feed" />
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.rubyinside.com/wp-includes/wlwmanifest.xml" />
+  <link rel="icon" href="/favicon.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
+</head>
+<body class="front">
+<div id="page">
+
+<div id="header">
+	<a href="/"><img src="/simg/logo.gif" id="logo" alt="Ruby Inside" /></a>
+	<div style="position: absolute; top: 4px; right: 0px"><a href="http://feedproxy.google.com/RubyInside/" style="text-decoration: none" rel="nofollow"><img src="http://feeds2.feedburner.com/~fc/RubyInside?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" alt="Subscribe To Feed" />&nbsp;<img src="simg/feedicon.gif" alt="Ruby Inside Feed" /></a></div>
+	
+	<div id="othersites">
+		<script><!--
+document.write('Other worthwhile sites:&nbsp;&nbsp;&nbsp;<a href="http://www.rubyflow.com/" rel="nofollow">RUBYFLOW</a>');
+--></script>&nbsp;&nbsp;&nbsp;<a href="http://www.rubyinside.com.br/">RUBY INSIDE BRASIL</a>
+	</div>
+	<div id="sections">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+<!-- li><a href="/chat">Chat</a></li -->
+			<li><a href="http://ruby.jobamatic.com/" title="Ruby Jobs">Ruby Jobs</a></li>
+			<li><a href="/advertise">Sponsor Us</a></li>
+			<li><a href="/contact">Contact</a></li>
+			<li><a href="/archives">Archives</a></li>
+		</ul>
+	</div>
+	<div id="tagline">
+		<div style="float: right">Established May 2006</div>
+		The #1 Ruby News Site
+	</div>
+
+</div>
+
+<div id="wrapper" class="clearfix">
+<div id="twocols" class="clearfix">	<div id="content">
+
+				
+  	
+
+		<div class="post" id="post-1875">
+
+
+<p style="font-weight: bold; color: #933; font-size: 12px; margin-top: 0px; text-transform: uppercase">Post by Ric Roberts on June 30th, 2009</p>
+			<h1>Getting Started with MongoDB and Ruby</h1>
+
+			<div id="centralfloater">
+<div><img src="/simg/similar.gif" alt="Similar Posts" /></div>
+<ul style="margin: 8px 0px; padding: 0"><li style="list-style: none; padding:3px 0; margin:0;"><a href="http://www.rubyinside.com/web-spidering-with-anemone-1927.html" rel="bookmark" title="July 2, 2009">Easy Web Spidering in Ruby with Anemone</a></li>
+
+<li style="list-style: none; padding:3px 0; margin:0;"><a href="http://www.rubyinside.com/rddb-restful-ruby-document-oriented-database-643.html" rel="bookmark" title="November 6, 2007">RDDB: RESTful Ruby Document-Oriented Database</a></li>
+
+<li style="list-style: none; padding:3px 0; margin:0;"><a href="http://www.rubyinside.com/autoadmin-auto-generated-admin-interface-in-a-rails-plugin-195.html" rel="bookmark" title="August 17, 2006">AutoAdmin: Auto-generated admin interface in a Rails plugin</a></li>
+</ul><!-- Similar Posts took 11.657 ms -->
+
+				<div><img src="/simg/popularposts.gif" alt="Popular Posts" /></div>
+				<!-- Blog ID: 316 -->
+
+				<div id="aidewidget"></div>
+
+
+				
+				<div style="margin-top: 8px"><img src="/simg/jobs.gif" alt="Jobs" /></div>
+				<div class="jobszone"><!-- ul style="list-style-type: none; padding-left: 0px; background-color: #ffd"><li><a href="http://www.rubyinside.com/neco-rails-guru-needed">Awesome Ruby Opportunity</a><br /> at <strong>National Events Company</strong> (New York or telecommute)</li></ul -->
+				<div id="jbb_adaptive_widget_body"></div>
+<div id="jbb_adaptive_widget_post_a_job" style="display:none"></div>
+
+				<p style="font-weight: bold"><a href="http://ruby.jobamatic.com/">View All Jobs</a> | <a href="http://ruby.jobamatic.com/a/jbb/post-job" rel="nofollow">Post a Job</a></p>
+				<script type="text/javascript">var jbb_widget_list_count = 3;var jbb_widget_domain = 'http://ruby.jobamatic.com';</script>
+				<script src="http://ruby.jobamatic.com/c/jbb/js/jbb_widget_adaptive.js" type="text/javascript"></script>
+				<script src="http://ruby.jobamatic.com/a/jbb/find-jobs-json/jbb_widget_list_jobposts" type="text/javascript"></script>
+</div><!-- jobszone -->
+				
+			</div>
+
+
+<div style="margin: 0px 0px 6px 0px; font-size: 11px"><a href="http://www.rubyinside.com/getting-started-mongodb-ruby-1875.html">Permanent Link</a>&nbsp;|&nbsp;<a href="http://del.icio.us/post?url=http://www.rubyinside.com/getting-started-mongodb-ruby-1875.html&title=Getting Started with MongoDB and Ruby"><img src="/wp-content/delicious.gif" alt="book mark Getting Started with MongoDB and Ruby in del.icio.us">Click here to add on del.icio.us</a>&nbsp;|&nbsp;<a href="#respond">No Comments - Leave One Now!</a></div>
+
+	
+			<div class="entrytext">
+				<p><img class="alignnone size-medium wp-image-1874" style="float:left; margin-bottom: 12px; margin-right: 12px;" title="mongomapper_logo" src="http://www.rubyinside.com/wp-content/uploads/2009/06/mongomapper_logo.jpg" alt="mongo mapper" /> <a href="http://www.mongodb.org/">MongoDB</a> a is a high-performance, open source, schema-free, document-oriented database written in C++. It's sort of a cross between scalable key/value stores and traditional functionality-rich relational databases.</p>
+<p>MongoDB might be useful as a fast, simple, non-transactional data store for a web application, or as a caching mechanism.  You don't ever need to worry about migrations due to Mongo's schema-less nature.</p>
+<p>Getting started with MongoDB using Ruby is now fairly straightforward thanks to the <a href="http://github.com/mongodb/mongo-ruby-driver/tree/master">Mongo Ruby driver</a>. This provides access to the core Mongo database operations, and natively supports many Ruby objects without requiring conversion (including nested hashes).  There's even an <a href="http://github.com/mongodb/activerecord-mongo-adapter/tree/master">ActiveRecord connection adapter for Mongo</a>.</p>
+<p>Earlier this week, John Nunemaker announced his <a href="http://railstips.org/2009/6/27/mongomapper-the-rad-mongo-wrapper">MongoMapper</a>, a wrapper for MongoDB which includes typecasting, callbacks, validations and other ActiveRecord-like features. The project is heading towards drop-in Rails compatibility.</p>
+<p>MongoMapper uses a default connection from the Ruby driver, and to create a MongoMapper model you just need to include <code>MongoMapper::Document</code> in the class (as opposed to ActiveRecord's inheritance pattern).  From there, it's simple to define your document's keys, validations and callbacks.</p>
+<p>The MongoMapper gem is available from RubyForge or <a href="http://github.com/jnunemaker/mongomapper/tree/master">Github</a>, and you can read more on <a href="http://railstips.org/2009/6/27/mongomapper-the-rad-mongo-wrapper">RailsTips</a>.</p>
+<div style="background-color: #ffd; padding: 8px; font-family: verdana; font-size: 12px"><a href="http://mobileorchard.com/inside" rel="nofollow"><img src="http://www.rubyinside.com/wp-content/uploads/2009/06/rupho.png" width="74" height="40" alt="rupho.png" style="float:left; margin-right:12px;" /></a><em>Also worth seeing.. </em> <strong>Mobile Orchard's <a href="http://mobileorchard.com/ri">Beginning iPhone Programming Workshop</a>.</strong>  Bay Area/July 30-31.  Seattle/Aug 20-21. Ruby Inside discount of $200 -- use "ri" discount code.</div>
+<p><a class="tt-small" href="http://twitter.com/home/?status=http://is.gd/1kfvH+Getting+Started+with+MongoDB+and+Ruby" title="Post to Twitter (http://is.gd/1kfvH)"><img class="nothumb" src="http://www.rubyinside.com/wp-content/plugins/tweet-this/tweet-this-small.png" alt="[Post to Twitter]" /> Tweet This</a></p>	
+					
+				<p class="postmetadata alt">
+					<small>
+						This entry was posted
+						 
+						on Tuesday, June 30th, 2009 at 11:45 pm						and is filed under <a href="http://www.rubyinside.com/category/miscellaneous" title="View all posts in Miscellaneous" rel="category tag">Miscellaneous</a>,  <a href="http://www.rubyinside.com/category/tools" title="View all posts in Tools" rel="category tag">Tools</a>.
+						
+						
+													You can <a href="#respond">leave a response</a>, or <a href="http://www.rubyinside.com/getting-started-mongodb-ruby-1875.html/trackback" rel="trackback">trackback</a> from your own site.
+						
+												
+					</small>
+				</p>
+	
+			</div>
+		</div>
+
+		<div class="navigation">
+			Previous Post: <a href="http://www.rubyinside.com/hirb-an-easy-to-use-view-framework-for-irb-1853.html">Hirb: An Easy-to-Use View Framework for irb</a><br />Next Post: <a href="http://www.rubyinside.com/integrity-a-fun-and-easy-continuous-integration-server-1890.html">Integrity: A Fun And Easy Continuous Integration Server</a>		</div>
+		
+	
+<!-- You can start editing here. -->
+
+
+   
+		<!-- If comments are open, but there are no comments. -->
+		
+	 
+
+
+<h3 id="respond" style="font-size: 1.2em">Leave a Reply</h3>
+
+
+<form action="http://www.rubyinside.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url"><small>Website</small></label></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+<p><textarea name="comment" id="comment" cols="40" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type="hidden" name="comment_post_ID" value="1875" />
+</p>
+
+</form>
+
+
+	
+		
+	</div>
+
+	<div id="sidebar">
+		
+				<div style="margin-bottom: 0px; padding-bottom: 0px"><img src="/simg/subscribe.gif" alt="Subscribe to Ruby Inside" /></div>
+		<div id="subscribebox" class="box" style="background-color: #eee; padding-bottom: 0px; border-top-width: 0px; padding-top: 1px">
+			
+			<p style="margin-top: 8px; margin-bottom: 8px"><a href="http://feeds2.feedburner.com/RubyInside" style="text-decoration: none"><img src="/simg/feediconsmall.gif" align="top" alt="Feed Icon" /></a> <a href="http://feeds2.feedburner.com/RubyInside">Subscribe to Ruby Inside with RSS</a></p>
+			<p style="margin-top: 0px; margin-bottom: 8px"><a href="http://twitter.com/RubyInside" style="text-decoration: none"><img src="/simg/twitter.gif" align="top" alt="Twitter Icon" /></a> <a href="http://twitter.com/RubyInside">Follow Ruby Inside on Twitter</a></p>
+			<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-left: 17px; margin-top: 0px"><p style="margin-top: 6px">Or, subscribe to your e-mail:<br /><input type="text" style="width:180px" name="email"/>&nbsp;<input type="submit" value="Subscribe" /><br /><span class="weak">Delivered by Google's <a href="http://www.feedburner.com/" target="_blank">FeedBurner</a> - no spam</span><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=362021" name="url"/><input type="hidden" value="Ruby Inside" name="title"/></p></form>
+		</div>
+		
+			<h3>Ruby Inside's <script type="text/javascript">document.write('Sponsors');</script></h3>
+
+<div class="hmm" id="sp11"><a href="http://bignerdranch.com/classes/ruby_on_rails.shtml"><img src="http://www.rubyinside.com/images/rorbootcamp.gif" alt="Big Nerd Ranch Ruby on Rails Class" /></a></div>
+
+			<div class="hmm" id="sp10"><a href="http://www.jetbrains.com/ruby?utm_source=RubyInside&utm_medium=Banner&utm_campaign=RubyMine" rel="nofollow"><img src="http://www.rubyinside.com/images/rm.gif" alt="Scrumd" /></a></div>
+
+			<!-- div class="hmm" id="sp9"><a href="http://www.scrumd.com/?ref=rubyinside" rel="nofollow"><img src="http://www.rubyinside.com/images/scrumd.gif" alt="Scrumd" /></a></div -->
+
+<div class="hmm" id="sp4"><a href="http://www.intridea.com/" rel="nofollow"><img src="http://www.rubyinside.com/images/intridea-generic.png" alt="Intridea" /></a></div>
+
+			<div class="hmm" id="sp7"><a href="http://railslab.newrelic.com/?utm_source=rubyinside&amp;utm_medium=banner&amp;utm_campaign=railslab" rel="nofollow"><img src="http://www.rubyinside.com/images/railslab.gif" alt="New Relic Rails Lab" /></a></div>
+
+<div class="hmm" id="sp8"><a href="http://www.rubysophic.com/products/RubyRun/" rel="nofollow"><img src="http://www.rubyinside.com/images/rubyrun.jpg" alt="Ruby Run" /></a></div>
+
+			<div class="hmm" id="sp2"><a href="http://www.brightbox.co.uk/" title="Brightbox Rails Hosting" rel="nofollow"><img src="http://www.rubyinside.com/images/brightbox_310by90.jpg" title="Brightbox Rails Hosting" alt="Brightbox Rails Hosting" /></a></div>
+			<div class="hmm" id="sp3"><a href="http://www.linode.com/r-rubyinside/" title="Linode" rel="nofollow"><img src="http://www.rubyinside.com/images/linode.png" alt="Linode" /></a></div>
+			
+			<!-- div class="hmm" id="sp5"><a href="http://www.fynspire.com/" rel="nofollow"><img src="http://www.rubyinside.com/images/fynspire.gif" alt="Fynspire" /></a></div -->
+
+			<div class="hmm"><a href="http://www.peepcode.com/" rel="nofollow"><img src="http://www.rubyinside.com/wp-content/peepcode.png" alt="PeepCode Rails Screencasts" title="PeepCode Rails Screencasts" border="1" /></a></div>
+			
+			
+			<script type="text/javascript">
+<!--
+			function randomizeSpons() {
+				sps = ['sp2', 'sp3', 'sp4', 'sp7', 'sp8', 'sp10', 'sp11'];
+				spscodes = [];
+				for (var x = 0; x < sps.length; x++) {
+					spscodes.push(document.getElementById(sps[x]).innerHTML);
+				}
+				function rSort() { return (Math.round(Math.random()) - 0.5); }
+				spscodes.sort(rSort);
+				for (var x = 0; x < sps.length; x++) {
+					document.getElementById(sps[x]).innerHTML = spscodes[x];
+				}
+			}
+			randomizeSpons();
+setTimeout("randomizeSpons();", 15000);
+-->
+			</script>
+			
+
+		
+		<table class="twocol">
+			<tr><td class="left">
+
+		
+		
+
+		</td>
+		<td class="right">
+
+
+
+		</td></tr></table>
+		
+		
+<br /><br />
+
+
+	</div>
+
+
+</div>
+
+	<div id="leftcol">
+	</div>
+</div>
+
+
+
+	<div id="footer">
+	
+			<div style="float: right; padding-top: 12px">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="http://ruby.jobamatic.com/">Ruby Jobs</a></li>
+<li><a href="/chat">Chat</a></li>
+				<li><a href="/advertise">Advertise</a></li>
+				<li><a href="/archives">Archives</a></li>
+				<li><a href="/contact">Contact</a></li>
+			</ul>
+			</div>
+		<p>
+			Ruby Inside is a <a href="http://www.superdaring.com/" rel="nofollow">SuperDaring!</a> publication.
+		</p>
+	</div>
+</div>
+
+	
+	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2237791-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+				<script type="text/javascript"
+				src="http://api.aiderss.com/static/top_posts.js">
+				</script>
+				<script type="text/javascript">
+				new AideWidget('aidewidget', 316, 'month', 3);
+				</script>
+
+<!--[if IE 6]>
+<script type="text/javascript"> 
+	var IE6UPDATE_OPTIONS = {
+		icons_path: "http://static.ie6update.com/hosted/ie6update/images/"
+	}
+</script>
+<script type="text/javascript" src="http://static.ie6update.com/hosted/ie6update/ie6update.js"></script>
+<![endif]-->
+</body>
+</html>
