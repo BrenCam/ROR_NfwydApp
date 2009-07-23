@@ -1,1 +1,10 @@
-Initial GITHUB install 
+== Nfwyd Application
+Initial Version - 7/22/2009
+Last Updated - 7/23/2009
+This project contains enhancements for the 'News for what you do' ROR application.
+ - Includes code to locate subscription links referenced by XML feeds
+ - See urlgrabber and subscribefinder classes for the main code
+ - See test directory for unit tests
+ - Includes unit tests + test data to  support TDD of these components
+
+
